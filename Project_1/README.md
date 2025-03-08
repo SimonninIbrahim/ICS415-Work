@@ -21,6 +21,6 @@ Matplotlib (for visualization)
 
 **Usage**
 
-Open Final_Code.ipynb in Jupyter Notebook.
+Open **Project 1 (Final).ipynb** in Jupyter Notebook.
 
 Run all cells to generate the final rendered image.
