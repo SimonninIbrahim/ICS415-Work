@@ -29,3 +29,6 @@ In the import window, make sure all files are checked, then click "Import".
 Once imported, find the Main Scene in the Assets/ folder.
 
 Double-click to open it, then click the Play button to run the project. 
+
+
+**Final Result is shown within the video file "P2 Result.mp4"**
