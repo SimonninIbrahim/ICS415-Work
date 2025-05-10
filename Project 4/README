@@ -4,11 +4,7 @@ A simple visual editor for drawing and adjusting Bézier curves.
 
 ## How to Run
 
-### Option 1: Open in Browser
-1. Open the `index.html` file in your web browser.
-2. You’re ready to use the editor!
-
-### Option 2: Run with Live Server (Recommended)
+### Run with Live Server (Recommended)
 1. Open the folder in Visual Studio Code.
 2. Install the "Live Server" extension (by Ritwick Dey).
 3. Right-click `index.html` and choose **"Open with Live Server"**.
